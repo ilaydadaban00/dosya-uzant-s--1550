@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ekleme\ekleme\bin\Debug\ekleme.exe.config
+C:\Users\User\source\repos\ekleme\ekleme\bin\Debug\ekleme.exe
+C:\Users\User\source\repos\ekleme\ekleme\bin\Debug\ekleme.pdb
+C:\Users\User\source\repos\ekleme\ekleme\obj\Debug\ekleme.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ekleme\ekleme\obj\Debug\ekleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ekleme\ekleme\obj\Debug\ekleme.Form1.resources
+C:\Users\User\source\repos\ekleme\ekleme\obj\Debug\ekleme.Properties.Resources.resources
+C:\Users\User\source\repos\ekleme\ekleme\obj\Debug\ekleme.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ekleme\ekleme\obj\Debug\ekleme.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ekleme\ekleme\obj\Debug\ekleme.exe
+C:\Users\User\source\repos\ekleme\ekleme\obj\Debug\ekleme.pdb
